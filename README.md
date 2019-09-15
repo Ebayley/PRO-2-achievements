@@ -1,2 +1,2 @@
 # PRO-2-achievements
-## Dit is mijn pro 2 achievments repository.
+### Dit is mijn __*PRO-2 achievments repository.*__
